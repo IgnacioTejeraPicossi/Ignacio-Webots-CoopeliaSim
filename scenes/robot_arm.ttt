@@ -1,0 +1,19 @@
+-- Scene configuration for CoppeliaSim
+-- This is a template file. You'll need to create the actual scene in CoppeliaSim GUI
+
+-- Scene hierarchy should be:
+-- Robot_Arm
+--   Base
+--   Joint1
+--     Link1
+--   Joint2
+--     Link2
+--   Joint3
+--     Link3
+--   Joint4
+--     Link4
+--   Joint5
+--     Link5
+--   Joint6
+--     End_Effector
+-- Target 

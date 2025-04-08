@@ -1,0 +1,4 @@
+numpy>=1.21.0
+zmq>=22.0.0
+opencv-python>=4.5.0
+pyzmq>=22.0.0 
