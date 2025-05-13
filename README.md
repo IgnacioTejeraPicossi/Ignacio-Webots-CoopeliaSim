@@ -36,4 +36,4 @@ This project demonstrates a robotic arm simulation using CoppeliaSim (formerly V
 
 ## VR Integration
 
-The project is structured to allow future VR integration using OpenVR or similar frameworks. 
+The project is structured to allow future VR integration using OpenVR or similar frameworks. Not taken to physical implementation.
