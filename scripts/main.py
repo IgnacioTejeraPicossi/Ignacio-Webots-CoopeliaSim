@@ -171,7 +171,8 @@ def main():
     print("2. Move to specific joint angles")
     print("3. Move to target position")
     print("4. Get current joint angles")
-    print("5. Exit")
+    print("5. Test")
+    print("6. Exit")
     
     try:
         while True:
